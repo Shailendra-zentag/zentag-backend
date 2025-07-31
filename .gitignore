@@ -1,2 +1,9 @@
 /node_modules
 /build
+.env
+
+
+# build output
+dist/
+build/
+*.tsbuildinfo
